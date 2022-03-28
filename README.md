@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessejputnam
-- I am looking to make a career change from public school teaching.
+- Changing careers from a public school teacher.
 - I have sought out the self-taught route to front end web design.
-- I love puzzles and logic, and while I teach Language Arts, I have found a real passion in programming.
+- I love puzzles and logic, and while I have been teaching Language Arts, I have found a real passion in programming.
 
 <!---
 jessejputnam/jessejputnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
