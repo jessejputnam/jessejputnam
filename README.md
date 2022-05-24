@@ -20,7 +20,7 @@
 
 # replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=#jessejputnam&theme=dracula&hide_border=true" width="300" />
+<img src="https://activity-graph.herokuapp.com/graph?username=jessejputnam&theme=dracula&hide_border=true" width="300" />
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#jessejputnam&theme=dracula&hide_border=true)
 
 
