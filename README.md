@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
 <h3 align="center">A former high school Language Arts teacher tranisitioning to front end programming.</h3>
 
-- 🌱 I’m currently learning **React** and **Firebase**
+- 🌱 I’m currently learning **Node** and **Express**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 
