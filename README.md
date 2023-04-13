@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
 <h3 align="center">Web Developer / former high school Language Arts teacher.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node, and React**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Node, and React**
 
 - 📫 How to reach me **jessejputnam@gmail.com**
 
