@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Node, and React**
-
 - 📫 How to reach me **jessejputnam@gmail.com**
 
 - ⚡ Fun fact **I've been a professional touring musician, high school teacher, and cheesemonger.**
