@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
-<h3 align="center">Web Developer / former high school Language Arts teacher.</h3>
+<h3 align="center">Web Developer / Data Engineer.</h3>
 
 - 🌱 I’m currently learning **Python**
 
