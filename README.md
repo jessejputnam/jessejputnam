@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
 <h3 align="center">Web Developer / Data Engineer.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Databricks**
 
 - 📫 How to reach me **jessejputnam@gmail.com**
 
