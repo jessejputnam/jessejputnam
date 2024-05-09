@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
 <h3 align="center">Web Developer / Data Engineer.</h3>
 
-- 🌱 I’m currently learning **Databricks**, **Power BI**
+- 🌱 I’m currently learning **Nand2Tetris**
 
 - 📫 How to reach me **jessejputnam@gmail.com**
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@jputnam1200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jputnam1200" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jesse-putnam-53830622a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse-putnam-53830622a22a" height="30" width="40" /></a>
 </p>
 
