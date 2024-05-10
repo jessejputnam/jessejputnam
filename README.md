@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jesse Putnam</h1>
+<h1 align="center">Jesse Putnam</h1>
 <h3 align="center">Web Developer / Data Engineer.</h3>
 
-- 🌱 I’m currently learning **Nand2Tetris**
+- I’m currently learning **Nand2Tetris**
 
-- 📫 How to reach me **jessejputnam@gmail.com**
+- How to reach me **jessejputnam@gmail.com**
 
-- ⚡ Fun fact **I've been a professional touring musician, high school teacher, and cheesemonger.**
+- Fun fact **I've been a professional touring musician, high school teacher, and cheesemonger.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
